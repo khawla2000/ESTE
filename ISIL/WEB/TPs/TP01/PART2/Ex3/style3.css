@@ -1,3 +1,7 @@
+body{
+    background-image: url('image1/bg.jpg');
+    background-size: cover;
+}
 div{
     /*border: 2px solid black;*/
     padding: 5px;
@@ -42,10 +46,21 @@ img{
     position: relative;
     left: 5%;
 }
+#text a{
+    position: relative;
+    left: 90%;
+}
 
 li{
     list-style: none;
-    padding-left: 100px;
+    padding-left: 250px;
+    padding-bottom: 10px;
+}
+li a{
+    text-decoration: none;
+}
+a{
+    color:brown;
 }
 
 h5{
@@ -54,7 +69,13 @@ h5{
 
 
 h1{
-    font-size: 220%;
-    padding-left: 505px;
+    font-size: 250%;
+    text-align: center;
+    text-shadow: 1px 1px 2px lightblue;
+    color: brown;
+    text-shadow: 2px 2px black;
+   
+
 }
+
 
