@@ -1,0 +1,23 @@
+div>div{
+  border: 1px solid black;
+  background-color: lightblue;
+  height: 100px;
+  margin: auto;
+  flex-basis: 100px;
+
+}
+
+#container, #container2, #container3,#container4{
+    display: flex;
+    flex-direction: row ;
+    margin: 10px;
+    
+}
+div{
+  text-align: center;
+}
+
+
+
+
+

@@ -1,0 +1,72 @@
+div{
+    /*border: 1px solid black;*/
+    padding: 2px;
+    margin: 2px;
+}
+
+#page{
+    width: 100%;
+    height: 500px;
+    position: relative;
+
+    
+    
+    
+
+    
+
+    
+   
+}
+
+#jaune{
+    width: 20%;
+    height: 20%;
+    background-color: gold;
+    margin-left: 20%;
+   
+   
+}
+
+
+#vert{
+    width: 20%;
+    height: 20%;
+    background-color: green;
+    margin-left: 60%;
+    position: absolute;
+    top: 6px;
+    
+  
+}
+
+
+#bleu{
+    width: 20%;
+    height: 20%;
+    background-color: mediumblue;
+    margin-left: 60%;
+    position: absolute;
+    bottom: 6px;
+    
+}
+
+
+#rouge{
+    width: 20%;
+    height: 20%;
+    background-color:red;
+    margin-left: 20%;
+    position: absolute;
+    bottom: 6px;
+    
+    
+}
+
+
+
+
+
+
+
+
