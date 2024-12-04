@@ -1,0 +1,81 @@
+body{
+    background-image: url('image1/bg.jpg');
+    background-size: cover;
+}
+div{
+    /*border: 2px solid black;*/
+    padding: 5px;
+    margin: 15px;
+    
+}
+
+#image{
+    display: flex;
+    
+}
+
+
+#img1,#img2,#img3{
+    flex-basis: 300px;
+    position: relative;
+    left: 5%;
+    border-radius: 10%;
+    
+    
+    
+}
+
+img{
+    width: 300px;
+    height: 150px;
+    border-radius: 10%;
+   
+}
+
+
+#form{
+    display: flex;
+
+}
+
+
+
+#text,#formulaire{
+    width: 500px;
+    height: 100px;
+    position: relative;
+    left: 5%;
+}
+#text a{
+    position: relative;
+    left: 90%;
+}
+
+li{
+    list-style: none;
+    padding-left: 250px;
+    padding-bottom: 10px;
+}
+li a{
+    text-decoration: none;
+}
+a{
+    color:brown;
+}
+
+h5{
+    padding-left: 505px;
+}
+
+
+h1{
+    font-size: 250%;
+    text-align: center;
+    text-shadow: 1px 1px 2px lightblue;
+    color: brown;
+    text-shadow: 2px 2px black;
+   
+
+}
+
+
